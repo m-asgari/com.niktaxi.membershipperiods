@@ -2,8 +2,9 @@
 <extension key="com.niktaxi.membershipperiods" type="module">
   <file>membershipperiods</file>
   <name>MembershipPeriods</name>
-  <description>This extension adds Membership Periods: with every membership renewal or edit, separate membership periods are stored. They can be viewed on membership's details page. Additionally, membership's periods have links to contribution that renewed it.</description>
+  <description>This extension that creates a new entity (inc database schema install) for the membership period. The membership period should have a start date, end date, should be linked to a membership and it should also be possible to display a linked contribution record.</description>
   <license>AGPL-3.0</license>
+  https://github.com/m-asgari/com.niktaxi.membershipperiods/archive/master.zip
   <maintainer>
     <author>Majid Asgari</author>
     <email>m.asgari@gmail.com</email>

@@ -2,6 +2,8 @@
 
 This extension adds Membership Periods: with every membership renewal or edit, separate membership periods are stored. They can be viewed on membership's details page. Additionally, membership's periods have links to contribution that renewed it.
 
+This extension is created as a test for Compucorp application process and is not ready for production deployment
+
 ![Screenshot](/images/screenshot.png) 
 
 
